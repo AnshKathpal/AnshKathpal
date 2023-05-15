@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧠 I’m currently learning Redux.<br>👯 I’m looking to collaborate on Projects.<br>📝 I regularly read articles on Technology.<br>💬 Ask me about react, vanilla javascript and CSS<br>📫 How to reach me storage.2.3107@gmail.com<br>🫠 Know more about me https://anshkathpal.github.io/
 
-                                    [![](https://visitcount.itsvg.in/api?id=AnshKathpal&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AnshKathpal&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshkathpal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnshKathpal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshkathpal) 
